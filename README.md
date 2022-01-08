@@ -3,15 +3,14 @@
 This is a simple HelloWorld message to practice using git/github. 
 It prints out the simple message everyone first learns to code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/A_sokCU7WrY)
 
 # Development Environment
+
 - python 3.8.6
 - git 
 - github
 
-<!-- # Useful Websites
+ # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here) -->
+* [Visual Studio Code | How to use git and github on YouTube](https://www.youtube.com/watch?v=Fk12ELJ9Bww)
